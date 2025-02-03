@@ -1,0 +1,33 @@
+.border{
+    border: 1px solid black;
+    margin-left: 500px;
+}
+
+.box{
+   
+    height: 120px;
+    width: 120px;
+    border: 2px solid black;
+    
+ }
+
+.b1{
+    background-color: white;
+    float: left;
+    font-size: 30px;
+    padding: 45px;
+    font-weight: bold;
+}
+
+.b2{
+    background-color: darkgreen;
+    float: left;
+    font-size: 30px;
+    padding: 45px;
+    font-weight: bold;
+    
+}
+
+.clear{
+    clear: both;
+}
